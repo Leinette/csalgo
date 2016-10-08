@@ -1,0 +1,16 @@
+run:
+enter value for a00:1
+enter value for a01:2
+enter value for a10:3
+enter value for a11:4
+enter value for b00:5
+enter value for b01:6
+enter value for b10:7
+enter value for b11:8
+1     2       5     6
+3     4       7     8
+
+
+19     22
+43     50
+BUILD SUCCESSFUL (total time: 9 seconds)
